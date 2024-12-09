@@ -121,5 +121,5 @@ fn main() {
 ```
 
 You can find more complex (i.e. practical) use cases in the
- [examples](https://github.com/Chopinsky/byte_buffer/tree/master/sync_pool/examples)
+ [examples](https://github.com/Chopinsky/byte_buffer/tree/master/syncpool/examples)
 folder. 

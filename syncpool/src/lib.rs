@@ -186,7 +186,7 @@
 //! pool.put(big_box);
 //! ```
 //!
-//! You can find more complex (i.e. practical) use cases in the [examples](https://github.com/Chopinsky/byte_buffer/tree/master/sync_pool/examples)
+//! You can find more complex (i.e. practical) use cases in the [examples](https://github.com/Chopinsky/byte_buffer/tree/master/syncpool/examples)
 //! folder.
 //!
 
